@@ -26,3 +26,5 @@ curl http://localhost:5000/health
 <!-- CI/CD Pipeline verified -->
 
 <!-- Warm cache test run -->
+
+<!-- Production approval gate demonstration -->
